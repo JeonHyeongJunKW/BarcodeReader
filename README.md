@@ -5,6 +5,12 @@ It recognizes the barcode with the webcam and provides internal information to t
 - OpenCV
 - Numpy
 
+# Hot to run code
+
+```
+python main.py
+```
+
 # Result
 
 ### Image
