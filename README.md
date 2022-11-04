@@ -13,6 +13,6 @@ It recognizes the barcode with the webcam and provides internal information to t
 
 ![result](./resource/DetectionResult.png)
 
-# experiment
+# Experiments(Python)
 - It takes 0.014 seconds between one extraction on average
 
